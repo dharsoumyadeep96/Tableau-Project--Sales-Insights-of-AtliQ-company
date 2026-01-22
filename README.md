@@ -74,7 +74,7 @@ This project demonstrates:
 
 **Soumyadeep Dhar**
 - Email: soumyadeepdhar433@gmail.com
-- LinkedIn: [Soumyadeep Dhar](https://linkedin.com/in/soumyadeepdhar433)
+- LinkedIn: www.linkedin.com/in/soumyadeep-dhar-785724333
 - GitHub: [@dharsoumyadeep96](https://github.com/dharsoumyadeep96)
 
 ## 📄 License
