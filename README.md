@@ -83,7 +83,7 @@ This project is available for educational and portfolio purposes.
 
 ## 🙏 Acknowledgments
 
-Special thanks to the data visualization community and Tableau for providing powerful tools for data storytelling.
+Special thanks to the data visualization community and Tableau for providing powerful tools for data storytelling.Also thanks to  Codebasics.
 
 ---
 
