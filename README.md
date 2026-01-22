@@ -87,4 +87,6 @@ Special thanks to the data visualization community and Tableau for providing pow
 
 ---
 
+## Other Tableau Project :-https://public.tableau.com/views/SomatoDeliveryInsights_17665153761450/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ⭐ If you find this project useful, please consider giving it a star!
